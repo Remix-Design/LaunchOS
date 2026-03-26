@@ -10,7 +10,6 @@
     </a>
   </div>
 <br>
-  [English](./README.md) | 简体中文
   <h3>LaunchOS - macOS 26 (Tahoe) 的最佳启动台替代品</h3>
 </div>
 

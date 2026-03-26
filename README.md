@@ -10,7 +10,6 @@
     </a>
   </div>
 <br>
-  English | [简体中文](./README_CN.md) 
   <h3>LaunchOS - Best Launchpad Alternative for macOS 26 (Tahoe)</h3>
 </div>
 
