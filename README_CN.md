@@ -10,7 +10,7 @@
   <h3 align="center">LaunchOS - macOS 26 和 macOS 27 的最佳启动台替代方案</h3>
 
  <div align="center">
-   <!-- launchos-version:start -->
+      <!-- launchos-version:start -->
    <p>v2.1.1 &nbsp; - &nbsp; Jun 11, 2026</p>
    <!-- launchos-version:end -->
   </div>
