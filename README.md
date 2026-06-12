@@ -10,7 +10,9 @@
   <h3 align="center">LaunchOS - Best Launchpad Alternative for macOS 26 and macOS 27</h3>
 
   <div align="center">
-    <p>v2.1.0 &nbsp; - &nbsp; Jun 11, 2026</p>
+    <!-- launchos-version:start -->
+    <p>v2.1.1 &nbsp; - &nbsp; Jun 11, 2026</p>
+    <!-- launchos-version:end -->
   </div>
 
   <div align="center">
