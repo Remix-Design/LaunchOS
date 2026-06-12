@@ -5,20 +5,26 @@
   <div align="center">
     <a href="https://launchosapp.com"><img alt="官方网站" src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-0D70FF" /></a>
     <a href="https://launchosapp.com/release.zh"><img alt="更新日志" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-D7F59D" /></a>
+    <a href="https://launchosapp.com"><img alt="已适配 macOS 27" src="https://img.shields.io/badge/%E5%B7%B2%E9%80%82%E9%85%8D%20macOS%2027-111827" /></a>
   </div>
+  <h3 align="center">LaunchOS - macOS 26 和 macOS 27 的最佳启动台替代方案</h3>
 
-  <h3 align="center">LaunchOS - macOS 26 的最佳启动台替代方案</h3>
+ <div align="center">
+   <p>v2.1.0 &nbsp - &nbsp Jun 11,2026</p>
+  </div>
 
   <div align="center">
     <a href="https://launchosapp.com"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
   </div>
 </div>
 
-[English](./README.md) | 简体中文
+[English](./README.md) | 简体中文 | [繁體中文](./README_TW.md) | [日本語](./README_JA.md)
 
-[LaunchOS](https://launchosapp.com) 是一款为 macOS 26 重新打磨的 Launchpad（启动台）替代方案，原生启动台的操作体验，使用时顺滑自然，完美还原原生启动台的几乎所有功能，但更强大。它轻量、克制、细致打磨，从视觉风格到交互手感，都在贴近原生体验的同时，与 Tahoe 更融合。
+[LaunchOS](https://launchosapp.com) 是一款为 macOS 26 和 macOS 27 重新打磨的 Launchpad（启动台）替代产品，仅需一个小小的安装包即可恢复经典启动台操作体验。其最大特色是完整保留了原生启动台的操作手感与肌肉记忆，使用时顺滑流畅，并在原生体验之上添加了增强优化功能。它轻量、克制、细致打磨，从视觉风格到交互手感，在极致还原原生启动台体验的同时，与新系统的液态玻璃风格完美融合。
 
-我们重新打磨了那些真正影响日常效率的小细节，也补上了 Apple 一直没有提供的几项实用增强，让它成为 macOS 26 上更自然、更完整，也更强大的 Launchpad 体验。
+我们重新打磨了那些真正影响日常效率的小细节，也补上了 Apple 一直没有提供的几项实用增强，让它成为 macOS 26 和 macOS 27 上更自然、更完整，也更强大的 Launchpad 体验。
+
+
 
 ![interface](assets/interface.png)
 
@@ -42,8 +48,26 @@
       <strong>原生构建，流畅迅捷</strong>
     </td>
     <td align="center" width="25%">
+      <img src="assets/icon-screen-120hz.svg" alt="支持 120Hz+ 高刷新率" width="72" /><br />
+      <strong>支持 120Hz+ 高刷新率</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="assets/icon-import.svg" alt="导入原生 Launchpad 布局" width="72" /><br />
+      <strong>导入原生 Launchpad 布局</strong>
+    </td>
+    <td align="center" width="25%">
       <img src="assets/icon-right-click.svg" alt="快捷右键菜单" width="72" /><br />
       <strong>快捷右键菜单</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/icon-hotkey.svg" alt="全局快捷键唤起" width="72" /><br />
+      <strong>全局快捷键唤起</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/icon-dock.svg" alt="拖拽应用到 Dock" width="72" /><br />
+      <strong>拖拽应用到 Dock</strong>
     </td>
   </tr>
   <tr>
@@ -53,10 +77,6 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-hotkey.svg" alt="全局快捷键唤起" width="72" /><br />
-      <strong>全局快捷键唤起</strong>
-    </td>
-    <td align="center">
       <img src="assets/icon-corner.svg" alt="通过触发角唤起" width="72" /><br />
       <strong>通过触发角唤起</strong><br />
       <sub><code>PRO</code></sub>
@@ -64,6 +84,11 @@
     <td align="center">
       <img src="assets/icon-f4.svg" alt="通过键盘 F4 键唤起" width="72" /><br />
       <strong>通过键盘 F4 键唤起</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-app-source.svg" alt="自定义 App 来源" width="72" /><br />
+      <strong>自定义 App 来源</strong><br />
       <sub><code>PRO</code></sub>
     </td>
   </tr>
@@ -98,7 +123,7 @@
     <td align="center">
       <img src="assets/icon-uninstall.svg" alt="彻底卸载应用" width="72" /><br />
       <strong>彻底卸载应用</strong><br />
-      <sub><code>PRO</code></sub> <sub><code>即将推出</code></sub>
+      <sub><code>PRO</code></sub>
     </td>
     <td align="center">
       <img src="assets/icon-iteration.svg" alt="持续快速迭代" width="72" /><br />
@@ -108,6 +133,18 @@
     <td align="center"></td>
   </tr>
 </table>
+
+
+
+## LaunchOS V2 核心变化
+
+- LaunchOS V2 从底层重新构建，从 SwiftUI 迁移至 AppKit；
+- 大幅改进了开机后首次打开的启动速度、运行性能、动画表现；
+- 原生支持 120Hz 和更高刷新率屏幕
+
+V2 版本更快、更顺滑、更省电、更节省内存！
+
+
 
 
 ## 常见问题
@@ -144,4 +181,6 @@ LaunchOS 提供免费基础版，也提供带 7 天免费试用的 Pro 版本。
 
 **launchos@remixdesign.app**
 
-LaunchOS 不是开源产品，也不是基于现有开源启动台项目构建而成。
+LaunchOS 不是开源产品，也不是基于已有开源启动台项目构建而成。
+
+本 Repo 仅用于产品介绍与收集 Issues。
