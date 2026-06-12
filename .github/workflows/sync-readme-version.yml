@@ -3,7 +3,7 @@ name: Sync README version
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 14 * * *"
 
 permissions:
   contents: write
@@ -14,18 +14,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: "22"
+          node-version: "24"
 
       - name: Sync README version
         run: node scripts/sync-readme-version.mjs
 
       - name: Commit README changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Sync README version
           file_pattern: README.md README_CN.md README_TW.md README_JA.md
