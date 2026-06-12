@@ -181,6 +181,8 @@ LaunchOS 提供免费基础版，也提供带 7 天免费试用的 Pro 版本。
 
 **launchos@remixdesign.app**
 
+中文用户也可以加入 QQ 群交流与反馈：[LaunchOS 中文社区](https://www.launchosapp.com/zh/community)
+
 LaunchOS 不是开源产品，也不是基于已有开源启动台项目构建而成。
 
 本 Repo 仅用于产品介绍与收集 Issues。
