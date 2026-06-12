@@ -45,6 +45,11 @@ function updateVersionBlock(content, filePath, versionLine) {
 
   const lineStart = content.lastIndexOf("\n", startIndex) + 1;
   const indent = content.slice(lineStart, startIndex);
+  const endLineBreakIndex = content.indexOf("\n", endIndex);
+  const replaceEndIndex =
+    endLineBreakIndex === -1
+      ? endIndex + END_MARKER.length
+      : endLineBreakIndex;
   const replacement = [
     `${indent}${START_MARKER}`,
     `${indent}${versionLine}`,
@@ -52,9 +57,9 @@ function updateVersionBlock(content, filePath, versionLine) {
   ].join("\n");
 
   return (
-    content.slice(0, startIndex) +
+    content.slice(0, lineStart) +
     replacement +
-    content.slice(endIndex + END_MARKER.length)
+    content.slice(replaceEndIndex)
   );
 }
 

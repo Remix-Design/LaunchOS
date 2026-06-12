@@ -10,9 +10,9 @@
   <h3 align="center">LaunchOS - macOS 26とmacOS 27に最適なLaunchpad代替ツール</h3>
 
   <div align="center">
-                <!-- launchos-version:start -->
-        <p>v2.1.1 &nbsp; - &nbsp; Jun 11, 2026</p>
-        <!-- launchos-version:end -->
+    <!-- launchos-version:start -->
+    <p>v2.1.1 &nbsp; - &nbsp; Jun 11, 2026</p>
+    <!-- launchos-version:end -->
   </div>
 
   <div align="center">
