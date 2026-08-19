@@ -3,9 +3,9 @@
   <h1>LaunchOS</h1>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="Official Website" src="https://img.shields.io/badge/Official%20Website-0D70FF" /></a>
-    <a href="https://launchosapp.com/release.en"><img alt="Release Notes" src="https://img.shields.io/badge/Release%20Notes-D7F59D" /></a>
-    <a href="https://launchosapp.com"><img alt="Optimized for macOS 27" src="https://img.shields.io/badge/Optimized%20for%20macOS%2027-111827" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="Official Website" src="https://img.shields.io/badge/Official%20Website-0D70FF" /></a>
+    <a href="https://launchosapp.com/release.en?utm_source=github&utm_medium=readme"><img alt="Release Notes" src="https://img.shields.io/badge/Release%20Notes-D7F59D" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="Optimized for macOS 27" src="https://img.shields.io/badge/Optimized%20for%20macOS%2027-111827" /></a>
   </div>
   <h3 align="center">LaunchOS - Best Launchpad Alternative for macOS 26 and macOS 27</h3>
 
@@ -16,13 +16,13 @@
   </div>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
   </div>
 </div>
 
 English | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | [日本語](./README_JA.md)
 
-[LaunchOS](https://launchosapp.com) is a Launchpad replacement rebuilt for macOS 26 and macOS 27. With a small installer, it brings back the classic Launchpad workflow. Its biggest strength is preserving the native Launchpad feel and muscle memory: smooth, familiar, and enhanced with practical improvements on top of the original experience. It is lightweight, restrained, and carefully refined, matching the native Launchpad experience while blending naturally with the new system's Liquid Glass style.
+[LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) is a Launchpad replacement rebuilt for macOS 26 and macOS 27. With a small installer, it brings back the classic Launchpad workflow. Its biggest strength is preserving the native Launchpad feel and muscle memory: smooth, familiar, and enhanced with practical improvements on top of the original experience. It is lightweight, restrained, and carefully refined, matching the native Launchpad experience while blending naturally with the new system's Liquid Glass style.
 
 We rebuilt the small details that truly shape daily efficiency, and added several useful improvements Apple never offered, making LaunchOS a more natural, complete, and powerful Launchpad experience on macOS 26 and macOS 27.
 

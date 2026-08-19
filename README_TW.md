@@ -3,9 +3,9 @@
   <h1>LaunchOS</h1>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="官方網站" src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%B6%B2%E7%AB%99-0D70FF" /></a>
-    <a href="https://launchosapp.com/release.zh-TW"><img alt="更新日誌" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E8%AA%8C-D7F59D" /></a>
-    <a href="https://launchosapp.com"><img alt="已適配 macOS 27" src="https://img.shields.io/badge/%E5%B7%B2%E9%81%A9%E9%85%8D%20macOS%2027-111827" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="官方網站" src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%B6%B2%E7%AB%99-0D70FF" /></a>
+    <a href="https://launchosapp.com/release.zh-TW?utm_source=github&utm_medium=readme"><img alt="更新日誌" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E8%AA%8C-D7F59D" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="已適配 macOS 27" src="https://img.shields.io/badge/%E5%B7%B2%E9%81%A9%E9%85%8D%20macOS%2027-111827" /></a>
   </div>
   <h3 align="center">LaunchOS - macOS 26 與 macOS 27 的最佳啟動台替代方案</h3>
 
@@ -16,13 +16,13 @@
   </div>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
   </div>
 </div>
 
 [English](./README.md) | [简体中文](./README_CN.md) | 繁體中文 | [日本語](./README_JA.md)
 
-[LaunchOS](https://launchosapp.com) 是一款為 macOS 26 與 macOS 27 重新打磨的 Launchpad（啟動台）替代產品，只需要一個小小的安裝包，就能恢復經典啟動台的操作體驗。它最大的特色，是完整保留原生啟動台的操作手感與肌肉記憶，使用時順滑流暢，並在原生體驗之上加入增強最佳化功能。它輕量、克制、細緻打磨，從視覺風格到互動手感，在極致還原原生啟動台體驗的同時，也與新系統的 Liquid Glass 風格自然融合。
+[LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) 是一款為 macOS 26 與 macOS 27 重新打磨的 Launchpad（啟動台）替代產品，只需要一個小小的安裝包，就能恢復經典啟動台的操作體驗。它最大的特色，是完整保留原生啟動台的操作手感與肌肉記憶，使用時順滑流暢，並在原生體驗之上加入增強最佳化功能。它輕量、克制、細緻打磨，從視覺風格到互動手感，在極致還原原生啟動台體驗的同時，也與新系統的 Liquid Glass 風格自然融合。
 
 我們重新打磨了那些真正影響日常效率的小細節，也補上了 Apple 一直沒有提供的幾項實用增強，讓它成為 macOS 26 與 macOS 27 上更自然、更完整，也更強大的 Launchpad 體驗。
 

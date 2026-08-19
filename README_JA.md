@@ -3,9 +3,9 @@
   <h1>LaunchOS</h1>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="公式サイト" src="https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-0D70FF" /></a>
-    <a href="https://launchosapp.com/release.ja"><img alt="リリースノート" src="https://img.shields.io/badge/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88-D7F59D" /></a>
-    <a href="https://launchosapp.com"><img alt="macOS 27 対応済み" src="https://img.shields.io/badge/macOS%2027%20%E5%AF%BE%E5%BF%9C%E6%B8%88%E3%81%BF-111827" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="公式サイト" src="https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-0D70FF" /></a>
+    <a href="https://launchosapp.com/release.ja?utm_source=github&utm_medium=readme"><img alt="リリースノート" src="https://img.shields.io/badge/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88-D7F59D" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="macOS 27 対応済み" src="https://img.shields.io/badge/macOS%2027%20%E5%AF%BE%E5%BF%9C%E6%B8%88%E3%81%BF-111827" /></a>
   </div>
   <h3 align="center">LaunchOS - macOS 26とmacOS 27に最適なLaunchpad代替ツール</h3>
 
@@ -16,13 +16,13 @@
   </div>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
   </div>
 </div>
 
 [English](./README.md) | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | 日本語
 
-[LaunchOS](https://launchosapp.com) は、macOS 26 と macOS 27 のために作り直された Launchpad 代替ツールです。小さなインストーラーだけで、クラシックな Launchpad の操作体験を取り戻せます。最大の特徴は、ネイティブ Launchpad の操作感と筋肉記憶をそのまま残していることです。滑らかで自然に使え、さらにネイティブ体験の上に実用的な改善も加えています。軽量で、控えめで、細部まで磨き込まれており、ネイティブ Launchpad の体験を高い精度で再現しながら、新しいシステムの Liquid Glass スタイルにも自然に馴染みます。
+[LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) は、macOS 26 と macOS 27 のために作り直された Launchpad 代替ツールです。小さなインストーラーだけで、クラシックな Launchpad の操作体験を取り戻せます。最大の特徴は、ネイティブ Launchpad の操作感と筋肉記憶をそのまま残していることです。滑らかで自然に使え、さらにネイティブ体験の上に実用的な改善も加えています。軽量で、控えめで、細部まで磨き込まれており、ネイティブ Launchpad の体験を高い精度で再現しながら、新しいシステムの Liquid Glass スタイルにも自然に馴染みます。
 
 日々の効率を本当に左右する小さな細部を作り直し、Apple が提供してこなかった実用的な強化も加えました。macOS 26 と macOS 27 で、より自然で、より完全で、より強力な Launchpad 体験を提供します。
 

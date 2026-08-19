@@ -3,9 +3,9 @@
   <h1>LaunchOS</h1>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="官方网站" src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-0D70FF" /></a>
-    <a href="https://launchosapp.com/release.zh"><img alt="更新日志" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-D7F59D" /></a>
-    <a href="https://launchosapp.com"><img alt="已适配 macOS 27" src="https://img.shields.io/badge/%E5%B7%B2%E9%80%82%E9%85%8D%20macOS%2027-111827" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="官方网站" src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-0D70FF" /></a>
+    <a href="https://launchosapp.com/release.zh?utm_source=github&utm_medium=readme"><img alt="更新日志" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-D7F59D" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="已适配 macOS 27" src="https://img.shields.io/badge/%E5%B7%B2%E9%80%82%E9%85%8D%20macOS%2027-111827" /></a>
   </div>
   <h3 align="center">LaunchOS - macOS 26 和 macOS 27 的最佳启动台替代方案</h3>
 
@@ -16,13 +16,13 @@
   </div>
 
   <div align="center">
-    <a href="https://launchosapp.com"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
+    <a href="https://launchosapp.com/?utm_source=github&utm_medium=readme"><img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge" /></a>
   </div>
 </div>
 
 [English](./README.md) | 简体中文 | [繁體中文](./README_TW.md) | [日本語](./README_JA.md)
 
-[LaunchOS](https://launchosapp.com) 是一款为 macOS 26 和 macOS 27 重新打磨的 Launchpad（启动台）替代产品，仅需一个小小的安装包即可恢复经典启动台操作体验。其最大特色是完整保留了原生启动台的操作手感与肌肉记忆，使用时顺滑流畅，并在原生体验之上添加了增强优化功能。它轻量、克制、细致打磨，从视觉风格到交互手感，在极致还原原生启动台体验的同时，与新系统的液态玻璃风格完美融合。
+[LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) 是一款为 macOS 26 和 macOS 27 重新打磨的 Launchpad（启动台）替代产品，仅需一个小小的安装包即可恢复经典启动台操作体验。其最大特色是完整保留了原生启动台的操作手感与肌肉记忆，使用时顺滑流畅，并在原生体验之上添加了增强优化功能。它轻量、克制、细致打磨，从视觉风格到交互手感，在极致还原原生启动台体验的同时，与新系统的液态玻璃风格完美融合。
 
 我们重新打磨了那些真正影响日常效率的小细节，也补上了 Apple 一直没有提供的几项实用增强，让它成为 macOS 26 和 macOS 27 上更自然、更完整，也更强大的 Launchpad 体验。
 
@@ -183,7 +183,7 @@ LaunchOS 提供免费基础版，也提供带 7 天免费试用的 Pro 版本。
 
 **launchos@remixdesign.app**
 
-中文用户也可以加入 QQ 群交流与反馈：[LaunchOS 中文社区](https://www.launchosapp.com/zh/community)
+中文用户也可以加入 QQ 群交流与反馈：[LaunchOS 中文社区](https://www.launchosapp.com/zh/community?utm_source=github&utm_medium=readme)
 
 LaunchOS 不是开源产品，也不是基于已有开源启动台项目构建而成。
 
