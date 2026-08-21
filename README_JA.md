@@ -89,17 +89,12 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-app-source.svg" alt="アプリソースのカスタマイズ" width="72" /><br />
-      <strong>アプリソースのカスタマイズ</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-grid.svg" alt="カスタマイズ可能なグリッドレイアウト" width="72" /><br />
       <strong>カスタマイズ可能なグリッドレイアウト</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-scroll.svg" alt="縦スクロール表示" width="72" /><br />
       <strong>縦スクロール表示</strong><br />
@@ -111,6 +106,11 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-app-source.svg" alt="アプリソースのカスタマイズ" width="72" /><br />
+      <strong>アプリソースのカスタマイズ</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-hide.svg" alt="不要なアプリを非表示" width="72" /><br />
       <strong>不要なアプリを非表示</strong><br />
       <sub><code>PRO</code></sub>
@@ -118,13 +118,18 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icon-window.svg" alt="ウィンドウブラウジングモード" width="72" /><br />
-      <strong>ウィンドウブラウジングモード</strong><br />
-      <sub><code>PRO</code></sub> <sub><code>近日公開</code></sub>
-    </td>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="アプリを完全にアンインストール" width="72" /><br />
       <strong>アプリを完全にアンインストール</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-window.svg" alt="ウィンドウブラウジングモード" width="72" /><br />
+      <strong>ウィンドウブラウジングモード</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="レイアウトを再整理" width="72" /><br />
+      <strong>レイアウトを再整理</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
@@ -132,7 +137,6 @@
       <strong>高速な改善を継続</strong><br />
       <sub><code>あなたのフィードバックをもとに</code></sub>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 

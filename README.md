@@ -89,17 +89,12 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-app-source.svg" alt="Custom App Sources" width="72" /><br />
-      <strong>Custom App Sources</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-grid.svg" alt="Customizable Grid Layout" width="72" /><br />
       <strong>Customizable Grid Layout</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-scroll.svg" alt="Vertical Scroll View" width="72" /><br />
       <strong>Vertical Scroll View</strong><br />
@@ -111,6 +106,11 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-app-source.svg" alt="Custom App Sources" width="72" /><br />
+      <strong>Custom App Sources</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-hide.svg" alt="Hide Unwanted Apps" width="72" /><br />
       <strong>Hide Unwanted Apps</strong><br />
       <sub><code>PRO</code></sub>
@@ -118,13 +118,18 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icon-window.svg" alt="Window Browsing Mode" width="72" /><br />
-      <strong>Window Browsing Mode</strong><br />
-      <sub><code>PRO</code></sub> <sub><code>COMING SOON</code></sub>
-    </td>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="Completely Uninstall Apps" width="72" /><br />
       <strong>Completely Uninstall Apps</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-window.svg" alt="Window Browsing Mode" width="72" /><br />
+      <strong>Window Browsing Mode</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="Reorganize Layout" width="72" /><br />
+      <strong>Reorganize Layout</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
@@ -132,7 +137,6 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
       <strong>Rapid Iteration Ahead</strong><br />
       <sub><code>BASED ON YOUR FEEDBACK</code></sub>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 

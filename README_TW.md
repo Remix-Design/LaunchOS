@@ -89,17 +89,12 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-app-source.svg" alt="自訂應用程式來源" width="72" /><br />
-      <strong>自訂應用程式來源</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-grid.svg" alt="可自訂網格佈局" width="72" /><br />
       <strong>可自訂網格佈局</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-scroll.svg" alt="垂直捲動視圖" width="72" /><br />
       <strong>垂直捲動視圖</strong><br />
@@ -111,6 +106,11 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-app-source.svg" alt="自訂應用程式來源" width="72" /><br />
+      <strong>自訂應用程式來源</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-hide.svg" alt="隱藏不需要的應用程式" width="72" /><br />
       <strong>隱藏不需要的應用程式</strong><br />
       <sub><code>PRO</code></sub>
@@ -118,13 +118,18 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icon-window.svg" alt="視窗瀏覽模式" width="72" /><br />
-      <strong>視窗瀏覽模式</strong><br />
-      <sub><code>PRO</code></sub> <sub><code>即將推出</code></sub>
-    </td>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="完整解除安裝應用程式" width="72" /><br />
       <strong>完整解除安裝應用程式</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-window.svg" alt="視窗瀏覽模式" width="72" /><br />
+      <strong>視窗瀏覽模式</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="重新整理版面" width="72" /><br />
+      <strong>重新整理版面</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
@@ -132,7 +137,6 @@
       <strong>持續快速迭代</strong><br />
       <sub><code>基於你的回饋</code></sub>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 

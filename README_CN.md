@@ -89,17 +89,12 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-app-source.svg" alt="自定义 App 来源" width="72" /><br />
-      <strong>自定义 App 来源</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-grid.svg" alt="可自定义网格布局" width="72" /><br />
       <strong>可自定义网格布局</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-scroll.svg" alt="纵向滚动视图" width="72" /><br />
       <strong>纵向滚动视图</strong><br />
@@ -111,6 +106,11 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-app-source.svg" alt="自定义 App 来源" width="72" /><br />
+      <strong>自定义 App 来源</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-hide.svg" alt="隐藏不需要的应用" width="72" /><br />
       <strong>隐藏不需要的应用</strong><br />
       <sub><code>PRO</code></sub>
@@ -118,13 +118,18 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icon-window.svg" alt="窗口浏览模式" width="72" /><br />
-      <strong>窗口浏览模式</strong><br />
-      <sub><code>PRO</code></sub> <sub><code>即将推出</code></sub>
-    </td>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="彻底卸载应用" width="72" /><br />
       <strong>彻底卸载应用</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-window.svg" alt="窗口浏览模式" width="72" /><br />
+      <strong>窗口浏览模式</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="重新整理布局" width="72" /><br />
+      <strong>重新整理布局</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
@@ -132,7 +137,6 @@
       <strong>持续快速迭代</strong><br />
       <sub><code>基于你的反馈</code></sub>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 
