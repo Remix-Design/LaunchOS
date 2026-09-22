@@ -28,7 +28,7 @@
 
 
 
-![interface](assets/interface.png)
+![interface](assets/interface.jpg)
 
 
 
@@ -101,23 +101,6 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-rename.svg" alt="自定义应用名称" width="72" /><br />
-      <strong>自定义应用名称</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-app-source.svg" alt="自定义 App 来源" width="72" /><br />
-      <strong>自定义 App 来源</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-hide.svg" alt="隐藏不需要的应用" width="72" /><br />
-      <strong>隐藏不需要的应用</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="彻底卸载应用" width="72" /><br />
       <strong>彻底卸载应用</strong><br />
       <sub><code>PRO</code></sub>
@@ -128,14 +111,31 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-reorganize.svg" alt="重新整理布局" width="72" /><br />
-      <strong>重新整理布局</strong><br />
+      <img src="assets/icon-multi.svg" alt="多选与批量操作" width="72" /><br />
+      <strong>多选与批量操作</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icon-rename.svg" alt="自定义应用名称" width="72" /><br />
+      <strong>自定义应用名称</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-iteration.svg" alt="持续快速迭代" width="72" /><br />
-      <strong>持续快速迭代</strong><br />
-      <sub><code>基于你的反馈</code></sub>
+      <img src="assets/icon-hide.svg" alt="隐藏不需要的应用" width="72" /><br />
+      <strong>隐藏不需要的应用</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-app-source.svg" alt="自定义 App 来源" width="72" /><br />
+      <strong>自定义 App 来源</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="重新整理布局" width="72" /><br />
+      <strong>重新整理布局</strong><br />
+      <sub><code>PRO</code></sub>
     </td>
   </tr>
 </table>

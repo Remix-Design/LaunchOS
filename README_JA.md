@@ -28,7 +28,7 @@
 
 
 
-![interface](assets/interface.png)
+![interface](assets/interface.jpg)
 
 
 
@@ -101,23 +101,6 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-rename.svg" alt="アプリ名のカスタマイズ" width="72" /><br />
-      <strong>アプリ名のカスタマイズ</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-app-source.svg" alt="アプリソースのカスタマイズ" width="72" /><br />
-      <strong>アプリソースのカスタマイズ</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-hide.svg" alt="不要なアプリを非表示" width="72" /><br />
-      <strong>不要なアプリを非表示</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="アプリを完全にアンインストール" width="72" /><br />
       <strong>アプリを完全にアンインストール</strong><br />
       <sub><code>PRO</code></sub>
@@ -128,14 +111,31 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-reorganize.svg" alt="レイアウトを再整理" width="72" /><br />
-      <strong>レイアウトを再整理</strong><br />
+      <img src="assets/icon-multi.svg" alt="複数選択と一括操作" width="72" /><br />
+      <strong>複数選択と一括操作</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icon-rename.svg" alt="アプリ名のカスタマイズ" width="72" /><br />
+      <strong>アプリ名のカスタマイズ</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-iteration.svg" alt="高速な改善を継続" width="72" /><br />
-      <strong>高速な改善を継続</strong><br />
-      <sub><code>あなたのフィードバックをもとに</code></sub>
+      <img src="assets/icon-hide.svg" alt="不要なアプリを非表示" width="72" /><br />
+      <strong>不要なアプリを非表示</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-app-source.svg" alt="アプリソースのカスタマイズ" width="72" /><br />
+      <strong>アプリソースのカスタマイズ</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="レイアウトを再整理" width="72" /><br />
+      <strong>レイアウトを再整理</strong><br />
+      <sub><code>PRO</code></sub>
     </td>
   </tr>
 </table>

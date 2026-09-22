@@ -28,7 +28,7 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
 
 
 
-![interface](assets/interface.png)
+![interface](assets/interface.jpg)
 
 
 
@@ -101,23 +101,6 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-rename.svg" alt="Custom App Renaming" width="72" /><br />
-      <strong>Custom App Renaming</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-app-source.svg" alt="Custom App Sources" width="72" /><br />
-      <strong>Custom App Sources</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-hide.svg" alt="Hide Unwanted Apps" width="72" /><br />
-      <strong>Hide Unwanted Apps</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="Completely Uninstall Apps" width="72" /><br />
       <strong>Completely Uninstall Apps</strong><br />
       <sub><code>PRO</code></sub>
@@ -128,14 +111,31 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-reorganize.svg" alt="Reorganize Layout" width="72" /><br />
-      <strong>Reorganize Layout</strong><br />
+      <img src="assets/icon-multi.svg" alt="Multi-Select and Batch Actions" width="72" /><br />
+      <strong>Multi-Select and Batch Actions</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icon-rename.svg" alt="Custom App Renaming" width="72" /><br />
+      <strong>Custom App Renaming</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-iteration.svg" alt="Rapid Iteration Ahead" width="72" /><br />
-      <strong>Rapid Iteration Ahead</strong><br />
-      <sub><code>BASED ON YOUR FEEDBACK</code></sub>
+      <img src="assets/icon-hide.svg" alt="Hide Unwanted Apps" width="72" /><br />
+      <strong>Hide Unwanted Apps</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-app-source.svg" alt="Custom App Sources" width="72" /><br />
+      <strong>Custom App Sources</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="Reorganize Layout" width="72" /><br />
+      <strong>Reorganize Layout</strong><br />
+      <sub><code>PRO</code></sub>
     </td>
   </tr>
 </table>
