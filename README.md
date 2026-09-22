@@ -20,7 +20,7 @@
   </div>
 </div>
 
-English | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | [日本語](./README_JA.md)
+English | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | [日本語](./README_JA.md) | [Deutsch](./README_DE.md) | [Français](./README_FR.md)
 
 [LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) is a Launchpad replacement rebuilt for macOS 26 and macOS 27. With a small installer, it brings back the classic Launchpad workflow. Its biggest strength is preserving the native Launchpad feel and muscle memory: smooth, familiar, and enhanced with practical improvements on top of the original experience. It is lightweight, restrained, and carefully refined, matching the native Launchpad experience while blending naturally with the new system's Liquid Glass style.
 

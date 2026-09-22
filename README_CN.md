@@ -20,7 +20,7 @@
   </div>
 </div>
 
-[English](./README.md) | 简体中文 | [繁體中文](./README_TW.md) | [日本語](./README_JA.md)
+[English](./README.md) | 简体中文 | [繁體中文](./README_TW.md) | [日本語](./README_JA.md) | [Deutsch](./README_DE.md) | [Français](./README_FR.md)
 
 [LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) 是一款为 macOS 26 和 macOS 27 重新打磨的 Launchpad（启动台）替代产品，仅需一个小小的安装包即可恢复经典启动台操作体验。其最大特色是完整保留了原生启动台的操作手感与肌肉记忆，使用时顺滑流畅，并在原生体验之上添加了增强优化功能。它轻量、克制、细致打磨，从视觉风格到交互手感，在极致还原原生启动台体验的同时，与新系统的液态玻璃风格完美融合。
 

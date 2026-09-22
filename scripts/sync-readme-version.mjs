@@ -6,6 +6,8 @@ const README_FILES = [
   "README_CN.md",
   "README_TW.md",
   "README_JA.md",
+  "README_DE.md",
+  "README_FR.md",
 ];
 
 const START_MARKER = "<!-- launchos-version:start -->";
