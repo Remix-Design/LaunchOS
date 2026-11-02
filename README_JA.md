@@ -11,7 +11,7 @@
 
   <div align="center">
     <!-- launchos-version:start -->
-    <p>v2.4.1 &nbsp; - &nbsp; Oct 22, 2026</p>
+    <p>v2.5.0 &nbsp; - &nbsp; Nov 2, 2026</p>
     <!-- launchos-version:end -->
   </div>
 
