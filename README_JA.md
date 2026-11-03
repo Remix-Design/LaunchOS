@@ -128,7 +128,7 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-group.svg" alt="Dockメニューからアプリにアクセス" width="72" /><br />
+      <img src="assets/icon-dock-menu.svg" alt="Dockメニューからアプリにアクセス" width="72" /><br />
       <strong>Dockメニューからアプリにアクセス</strong><br />
       <sub><code>PRO</code></sub>
     </td>

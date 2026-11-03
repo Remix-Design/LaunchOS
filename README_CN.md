@@ -128,7 +128,7 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-group.svg" alt="从 Dock 菜单访问 App" width="72" /><br />
+      <img src="assets/icon-dock-menu.svg" alt="从 Dock 菜单访问 App" width="72" /><br />
       <strong>从 Dock 菜单访问 App</strong><br />
       <sub><code>PRO</code></sub>
     </td>

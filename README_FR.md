@@ -128,7 +128,7 @@ Nous avons soigné les détails qui comptent au quotidien et ajouté des fonctio
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-group.svg" alt="Accéder aux apps depuis le menu Dock" width="72" /><br />
+      <img src="assets/icon-dock-menu.svg" alt="Accéder aux apps depuis le menu Dock" width="72" /><br />
       <strong>Accéder aux apps depuis le menu Dock</strong><br />
       <sub><code>PRO</code></sub>
     </td>

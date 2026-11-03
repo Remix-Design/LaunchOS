@@ -128,7 +128,7 @@ Wir haben die Details überarbeitet, die im Alltag den Unterschied machen, und n
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-group.svg" alt="Apps über das Dock-Menü öffnen" width="72" /><br />
+      <img src="assets/icon-dock-menu.svg" alt="Apps über das Dock-Menü öffnen" width="72" /><br />
       <strong>Apps über das Dock-Menü öffnen</strong><br />
       <sub><code>PRO</code></sub>
     </td>
