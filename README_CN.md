@@ -128,10 +128,17 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-group.svg" alt="从 Dock 菜单访问 App" width="72" /><br />
+      <strong>从 Dock 菜单访问 App</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-app-source.svg" alt="自定义 App 来源" width="72" /><br />
       <strong>自定义 App 来源</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-reorganize.svg" alt="重新整理布局" width="72" /><br />
       <strong>重新整理布局</strong><br />

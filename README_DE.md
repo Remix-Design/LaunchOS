@@ -128,10 +128,17 @@ Wir haben die Details überarbeitet, die im Alltag den Unterschied machen, und n
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-group.svg" alt="Apps über das Dock-Menü öffnen" width="72" /><br />
+      <strong>Apps über das Dock-Menü öffnen</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-app-source.svg" alt="Eigene App Quellen" width="72" /><br />
       <strong>Eigene App Quellen</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-reorganize.svg" alt="Layout neu organisieren" width="72" /><br />
       <strong>Layout neu organisieren</strong><br />

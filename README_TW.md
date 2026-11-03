@@ -128,10 +128,17 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-group.svg" alt="從 Dock 選單存取 App" width="72" /><br />
+      <strong>從 Dock 選單存取 App</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-app-source.svg" alt="自訂應用程式來源" width="72" /><br />
       <strong>自訂應用程式來源</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-reorganize.svg" alt="重新整理版面" width="72" /><br />
       <strong>重新整理版面</strong><br />

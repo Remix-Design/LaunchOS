@@ -128,10 +128,17 @@ We rebuilt the small details that truly shape daily efficiency, and added severa
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-group.svg" alt="Show Apps in Dock Menu" width="72" /><br />
+      <strong>Show Apps in Dock Menu</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-app-source.svg" alt="Custom App Sources" width="72" /><br />
       <strong>Custom App Sources</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-reorganize.svg" alt="Reorganize Layout" width="72" /><br />
       <strong>Reorganize Layout</strong><br />

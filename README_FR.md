@@ -128,10 +128,17 @@ Nous avons soigné les détails qui comptent au quotidien et ajouté des fonctio
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
+      <img src="assets/icon-group.svg" alt="Accéder aux apps depuis le menu Dock" width="72" /><br />
+      <strong>Accéder aux apps depuis le menu Dock</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
       <img src="assets/icon-app-source.svg" alt="Sources d'applications personnalisées" width="72" /><br />
       <strong>Sources d'applications personnalisées</strong><br />
       <sub><code>PRO</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/icon-reorganize.svg" alt="Réorganiser la disposition" width="72" /><br />
       <strong>Réorganiser la disposition</strong><br />
